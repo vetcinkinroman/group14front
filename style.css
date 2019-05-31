@@ -1,0 +1,28 @@
+
+body {
+    color: #1D2E4C;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+main {
+    background-color: #F8F9FB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+img:hover {
+    filter: none;
+}
+
+tr:nth-child(odd) {
+    background-color: #F8F9FB; /* фон нечетных строк */
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
